@@ -18,4 +18,4 @@ score of the two documents. The code for this webpage can be found in the path ~
 The api.py file has the flask app code and the processing.py file has the code for the program.
 
 You can also run the api.py file on your machine. This will give you a website address you can paste in your server. The
-path will look like this http://127.0.0.1:5000/. Paste this into into your server and enter your strings.
+path will look like this http://127.0.0.1:5000/. Paste the path that is printed out into your server and enter your strings.
