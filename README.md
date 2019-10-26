@@ -25,6 +25,5 @@ If you want to run the api code directly in your terminal:
 
 You can also run the api.py file on your machine. Before doing so make sure flask package is pip installed on your computer and also make sure your computer has latest portion of python (python 3.7).
 To do so cd to the folder ~projects/api. Then run python api.py. This will give you a website address you can paste in your web browser. The path will be in on of the lines that print out that looks like
-'Running on http://127.0.0.1:5000/'. Paste the ip address (http://127.0.0.1:5000/) in your web browser. Paste the path that is returned into your server and it will take you to a screen where you can enter your two strings.
-and then click 'Do Calculation' and the website will return the similarity score.
+'Running on http://127.0.0.1:5000/'. Paste the ip address (http://127.0.0.1:5000/) in your web browser and it will take you to a screen where you can enter your two strings. Then click 'Do Calculation' and the website will return the similarity score.
 
